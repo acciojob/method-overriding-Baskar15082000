@@ -5,7 +5,7 @@ public class Main {
 
         B obj=new B();
 
-        String str1=obj.meth();
+        obj.meth();
 
     }
 }
